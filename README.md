@@ -2,7 +2,7 @@ This respiratory is to convert the speech to text and vice versa by using IBM WA
 
 1- convert the speech to text
 
-^ Related files: "transcribe.py" + "requirements.txt"+"setup.py"+"setup.cfg".
+^ Related files: "transcribe.py" + "requirements.txt"+"setup.py"+"setup.cfg"+"speech.cfg".
 
 2- convert the text to speech.
 
